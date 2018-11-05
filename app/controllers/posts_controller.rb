@@ -29,5 +29,7 @@ class PostsController < ApplicationController
 
 	private
 
-	
+	def post_params
+		
+	end
 end
